@@ -1,0 +1,21 @@
+create a new node in single linked list
+Sol::
+start=newnode;
+newnode->next=NULL;
+ptr->next=newnode;
+if(search==1)
+{
+printf("\n elements to be entered");
+}
+else
+{
+printf(
+}
+}
+switch(ch)
+{
+case 1: 
+for(i=1;i<=n;i++)
+{
+create();
+}
